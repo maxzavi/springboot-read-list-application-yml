@@ -1,0 +1,9 @@
+environment: PROD
+querys:
+  - query:
+    name: query1
+    sql: select * from asasas  sasa sasas sas
+  - query:
+    name: query2
+    sql: ihsaihsa kjsakjsa kjsakjskas jksajskajskas
+other: aa
